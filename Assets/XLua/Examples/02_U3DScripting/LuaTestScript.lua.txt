@@ -23,3 +23,6 @@ function ondestroy()
     print("lua destroy")
 end
 
+function test(  )
+	print("test")
+end
